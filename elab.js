@@ -1,13 +1,13 @@
 /***********************************
 
-> 應用名稱：咿啦看書
+> 應用名稱：翼腊挥栟
 > 軟件版本：2.8.5
 > 更新時間：2022-02-17
 
  
 [rewrite_local]
 
-# 咿啦看書
+# 翼腊挥栟
 https?:\/\/bookapi\.ellabook\.cn\/rest\/api\/service$ url script-response-body https://raw.githubusercontent.com/NoahL9/ziyong/refs/heads/main/elabook.js
 
 [mitm] 
